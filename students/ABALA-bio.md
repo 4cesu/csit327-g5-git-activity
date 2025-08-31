@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G5
+- Favorite Language: Java
+- One Git Tip Learned: Frequently use 'git status'
+- GitHub: @4cesu
